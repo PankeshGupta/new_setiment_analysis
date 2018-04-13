@@ -1,5 +1,6 @@
 model_name: New Sentiment Analysis
 model_desc:
+  description: Sentiment from text
   details: dummy details
   keywords: [regression, machine learning]
   type: regression
